@@ -1,14 +1,8 @@
 # Bloodborne Boss Completions
 
-![bloodborne](https://github.com/dietofworms/bloodborne/blob/master/plot.png)
-
-Here’s a tighter, more engaging README for your repository:
-
----
-
-# Bloodborne Boss Completions
-
 Analyse Bloodborne PS4 trophy data to uncover boss‑completion patterns.
+
+![bloodborne](https://github.com/dietofworms/bloodborne/blob/master/plot.png)
 
 ---
 
